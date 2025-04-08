@@ -2,7 +2,7 @@ FROM registry.hub.docker.com/library/python:3.10.1-bullseye AS build
 
 WORKDIR /flapy_build
 
-ENV POETRY_VERSION="1.1.8"
+ENV POETRY_VERSION="1.8.3"
 
 # Python shall not write the byte code to *.pyc files; they cannot be cached between
 # runs of the container anyway, hence we save the required time and resources for that
@@ -28,9 +28,9 @@ WORKDIR /workdir
 
 RUN apt-get update && apt-get install -y sqlite3 cloc
 
-COPY --from=build /flapy_build/dist/FlaPy-${FLAPY_VERSION}-py3-none-any.whl ./
+COPY --from=build /flapy_build/dist/flapy-${FLAPY_VERSION}-py3-none-any.whl ./
 COPY utils.sh clone_and_run_tests.sh findpackages.py find_all_modules.py ./
 
-RUN pip install FlaPy-${FLAPY_VERSION}-py3-none-any.whl
+RUN pip install flapy-${FLAPY_VERSION}-py3-none-any.whl
 
 ENTRYPOINT ["./clone_and_run_tests.sh"]
