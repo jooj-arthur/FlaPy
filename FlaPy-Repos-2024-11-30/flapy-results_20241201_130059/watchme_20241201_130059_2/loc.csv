@@ -1,0 +1,13 @@
+language,files,blank,comment,code,total
+HTML,70,9173,66,17035,26274
+JavaScript,13,2221,2249,8407,12877
+Python,57,1996,2272,4859,9127
+Markdown,33,919,0,2953,3872
+SVG,3,0,0,2679,2679
+CSS,5,286,277,1544,2107
+YAML,4,30,14,200,244
+"Bourne Shell",5,50,19,195,264
+make,1,30,5,190,225
+reStructuredText,15,140,222,165,527
+Dockerfile,1,2,1,7,10
+TeX,1,1,0,5,6

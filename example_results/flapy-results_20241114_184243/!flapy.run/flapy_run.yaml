@@ -1,0 +1,8 @@
+num_runs:               1
+run_on:                 "locally"
+constraint:             ""
+input_csv:              "flapy_input_example_tiny.csv"
+plus_random_runs:       ""
+core_args:              ""
+out_dir:                "/mnt/c/Users/dealw/Documents/GitHub/FlaPy/example_results"
+input_csv_length:       2

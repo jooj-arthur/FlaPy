@@ -1,0 +1,2 @@
+PROJECT_NAME,PROJECT_URL,PROJECT_HASH,PYPI_TAG,FUNCS_TO_TRACE,TESTS_TO_BE_RUN,NUM_RUNS
+torch-layer-normalization,https://github.com/CyberZHG/torch-layer-normalization,89f405b60f53f85da6f03fe685c190ef394ce50c,,,,180.0

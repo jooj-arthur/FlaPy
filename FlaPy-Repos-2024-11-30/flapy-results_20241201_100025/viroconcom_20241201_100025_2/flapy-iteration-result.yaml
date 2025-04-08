@@ -1,0 +1,21 @@
+slurm_array_task_id:    
+slurm_array_job_id:     
+slurm_job_id:           
+input_csv_line_num:     2
+hostname_run_line:      eugenio
+project_name:           "viroconcom"
+project_url:            "https://github.com/virocon-organization/viroconcom"
+project_git_hash_INPUT: "f4cca9b5e8bc4c2119c7e0a4f94da5bdbe2920c7"
+pypi_tag:               ""
+func_to_trace:          ""
+tests_to_be_run:        ""
+num_runs:               200
+plus_random_runs:       
+flapy args:             ""
+hostname_run_container: eugenio
+flapy_image_id:         125e5d4f5646
+project_git_hash:       "f4cca9b5e8bc4c2119c7e0a4f94da5bdbe2920c7"
+disk_usage:             46152
+start_time:             Sun Dec  1 12:56:42 UTC 2024
+end_time:               Sun Dec  1 13:23:56 UTC 2024
+execution_time:         1634

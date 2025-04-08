@@ -1,0 +1,21 @@
+slurm_array_task_id:    
+slurm_array_job_id:     
+slurm_job_id:           
+input_csv_line_num:     2
+hostname_run_line:      eugenio
+project_name:           "xphyle"
+project_url:            "https://github.com/jdidion/xphyle"
+project_git_hash_INPUT: "9f66b129130a368611fb2ab0027c6218b1a13a50"
+pypi_tag:               ""
+func_to_trace:          ""
+tests_to_be_run:        ""
+num_runs:               160
+plus_random_runs:       
+flapy args:             ""
+hostname_run_container: eugenio
+flapy_image_id:         125e5d4f5646
+project_git_hash:       "9f66b129130a368611fb2ab0027c6218b1a13a50"
+disk_usage:             4508
+start_time:             Mon Dec  2 00:30:53 UTC 2024
+end_time:               Mon Dec  2 00:47:49 UTC 2024
+execution_time:         1016

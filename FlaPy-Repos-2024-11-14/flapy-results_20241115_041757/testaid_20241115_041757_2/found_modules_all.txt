@@ -1,0 +1,15 @@
+setup
+testaid.ansibleres
+testaid.ansiblerun
+testaid.boilerplate
+testaid.exceptions
+testaid.jsonvars
+testaid.moleculebook
+testaid.moleculeenv
+testaid.moleculelog
+testaid.moleculeplay
+testaid.pathlist
+testaid.plugin
+testaid.templates
+testaid.testpass
+testaid.testvars

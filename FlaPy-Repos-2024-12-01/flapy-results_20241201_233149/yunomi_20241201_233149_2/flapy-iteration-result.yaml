@@ -1,0 +1,21 @@
+slurm_array_task_id:    
+slurm_array_job_id:     
+slurm_job_id:           
+input_csv_line_num:     2
+hostname_run_line:      eugenio
+project_name:           "yunomi"
+project_url:            "https://github.com/dreid/yunomi"
+project_git_hash_INPUT: "1aa3f166843613331b38e231264ffc3ac40e8094"
+pypi_tag:               ""
+func_to_trace:          ""
+tests_to_be_run:        ""
+num_runs:               120
+plus_random_runs:       
+flapy args:             ""
+hostname_run_container: eugenio
+flapy_image_id:         125e5d4f5646
+project_git_hash:       "1aa3f166843613331b38e231264ffc3ac40e8094"
+disk_usage:             452
+start_time:             Mon Dec  2 02:35:42 UTC 2024
+end_time:               Mon Dec  2 02:48:17 UTC 2024
+execution_time:         755

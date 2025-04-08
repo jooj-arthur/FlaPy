@@ -1,0 +1,2 @@
+PROJECT_NAME,PROJECT_URL,PROJECT_HASH,PYPI_TAG,FUNCS_TO_TRACE,TESTS_TO_BE_RUN,NUM_RUNS
+words-to-regular-expression,https://github.com/radeklat/words-to-regular-expression,6be1a3846f4bc07a2264b72d1e1ee031c605bac7,,,,180.0

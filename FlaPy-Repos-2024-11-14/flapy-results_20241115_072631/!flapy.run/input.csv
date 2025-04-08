@@ -1,0 +1,2 @@
+PROJECT_NAME,PROJECT_URL,PROJECT_HASH,PYPI_TAG,FUNCS_TO_TRACE,TESTS_TO_BE_RUN,NUM_RUNS
+thredds_crawler,https://github.com/ioos/thredds_crawler,fb29ea2fb8d079cacc6c09f79245e8f54f77c6a6,,,,180.0

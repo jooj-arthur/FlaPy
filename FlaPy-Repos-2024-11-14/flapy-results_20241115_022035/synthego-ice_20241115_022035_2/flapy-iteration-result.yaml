@@ -1,0 +1,21 @@
+slurm_array_task_id:    
+slurm_array_job_id:     
+slurm_job_id:           
+input_csv_line_num:     2
+hostname_run_line:      eugenio
+project_name:           "synthego-ice"
+project_url:            "https://github.com/synthego-open/ice"
+project_git_hash_INPUT: "310495fe536b7d2eafcee80f145c55f7c65d947c"
+pypi_tag:               ""
+func_to_trace:          ""
+tests_to_be_run:        ""
+num_runs:               200
+plus_random_runs:       
+flapy args:             ""
+hostname_run_container: eugenio
+flapy_image_id:         125e5d4f5646
+project_git_hash:       "310495fe536b7d2eafcee80f145c55f7c65d947c"
+disk_usage:             37560
+start_time:             Fri Nov 15 05:20:39 UTC 2024
+end_time:               Fri Nov 15 06:59:23 UTC 2024
+execution_time:         5924

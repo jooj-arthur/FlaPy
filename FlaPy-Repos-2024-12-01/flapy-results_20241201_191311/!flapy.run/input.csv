@@ -1,0 +1,2 @@
+PROJECT_NAME,PROJECT_URL,PROJECT_HASH,PYPI_TAG,FUNCS_TO_TRACE,TESTS_TO_BE_RUN,NUM_RUNS
+wordoftheday,https://github.com/patrickc-dev/wordoftheday,35439b87e782199813933ae6bddbfd1c6cea2b6c,,,,200.0

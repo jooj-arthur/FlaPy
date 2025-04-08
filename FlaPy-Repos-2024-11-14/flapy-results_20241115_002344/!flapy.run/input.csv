@@ -1,0 +1,2 @@
+PROJECT_NAME,PROJECT_URL,PROJECT_HASH,PYPI_TAG,FUNCS_TO_TRACE,TESTS_TO_BE_RUN,NUM_RUNS
+swish-python,https://github.com/madspindel/swish-python,cee2a147b1d567417aa6e37e9a3fd60ca269c69a,,,,200.0

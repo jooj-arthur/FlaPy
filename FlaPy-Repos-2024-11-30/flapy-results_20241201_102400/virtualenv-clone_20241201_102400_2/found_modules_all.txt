@@ -1,0 +1,6 @@
+clonevirtualenv
+setup
+tests.test_dirmatch
+tests.test_fixup_scripts
+tests.test_virtualenv_clone
+tests.test_virtualenv_sys

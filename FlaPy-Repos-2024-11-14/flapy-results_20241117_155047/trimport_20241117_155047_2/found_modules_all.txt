@@ -1,0 +1,6 @@
+setup
+trimport.core.common
+trimport.core.functions.generic
+trimport.testing.utils
+trimport.tests.core.functions.test_constructor
+trimport.tests.core.functions.test_find_files

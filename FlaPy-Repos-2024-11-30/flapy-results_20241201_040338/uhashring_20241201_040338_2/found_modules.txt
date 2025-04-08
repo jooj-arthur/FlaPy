@@ -1,0 +1,4 @@
+uhashring.ring_ketama
+uhashring.ring
+uhashring.monkey
+uhashring.ring_meta

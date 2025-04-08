@@ -1,0 +1,8 @@
+num_runs:               160
+run_on:                 "locally"
+constraint:             ""
+input_csv:              "repos_to_flapy.csv"
+plus_random_runs:       ""
+core_args:              ""
+out_dir:                "/mnt/c/Users/dealw/Documents/GitHub/FlaPy/FlaPy-Repos-2024-11-30"
+input_csv_length:       2

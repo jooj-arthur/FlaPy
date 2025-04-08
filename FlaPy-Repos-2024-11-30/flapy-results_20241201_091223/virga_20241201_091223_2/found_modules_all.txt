@@ -1,0 +1,14 @@
+setup
+tests.fixtures.responses
+tests.test_asserts
+tests.test_common
+tests.test_providers.test_abstract_provider
+tests.test_providers.test_aws.test_provider
+tests.test_providers.test_aws.test_virgaclient
+tests.test_samples
+virga.asserts
+virga.common
+virga.providers.abstract
+virga.providers.aws.provider
+virga.providers.aws.virgaclient
+virga.samples

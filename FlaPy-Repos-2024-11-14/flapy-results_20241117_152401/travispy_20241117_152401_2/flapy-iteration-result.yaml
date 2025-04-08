@@ -1,0 +1,21 @@
+slurm_array_task_id:    
+slurm_array_job_id:     
+slurm_job_id:           
+input_csv_line_num:     2
+hostname_run_line:      eugenio
+project_name:           "travispy"
+project_url:            "https://github.com/menegazzo/travispy"
+project_git_hash_INPUT: "54b6974c98be7cab5f8129bb49fa96e20fef31af"
+pypi_tag:               ""
+func_to_trace:          ""
+tests_to_be_run:        ""
+num_runs:               180
+plus_random_runs:       
+flapy args:             ""
+hostname_run_container: eugenio
+flapy_image_id:         125e5d4f5646
+project_git_hash:       "54b6974c98be7cab5f8129bb49fa96e20fef31af"
+disk_usage:             788
+start_time:             Sun Nov 17 18:24:04 UTC 2024
+end_time:               Sun Nov 17 18:50:43 UTC 2024
+execution_time:         1599

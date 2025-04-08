@@ -1,0 +1,15 @@
+setup
+tests.test_formats
+tests.test_paths
+tests.test_performance
+tests.test_progress
+tests.test_types
+tests.test_urls
+tests.test_utils
+tests.test_xphyle
+xphyle.formats
+xphyle.paths
+xphyle.progress
+xphyle.types
+xphyle.urls
+xphyle.utils

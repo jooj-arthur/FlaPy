@@ -1,0 +1,5 @@
+conftest
+setup
+truffleHog.truffleHog
+truffleHog.whitelist
+truffleHog.whitelistExamples

@@ -1,0 +1,3 @@
+truffleHog.truffleHog
+truffleHog.whitelist
+truffleHog.whitelistExamples

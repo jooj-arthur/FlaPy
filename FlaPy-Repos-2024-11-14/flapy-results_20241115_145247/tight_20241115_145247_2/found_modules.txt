@@ -1,0 +1,11 @@
+tight.core.test_helpers
+fixtures.lambda_app.functions.empty_controller.handler
+tight.core.logger
+tight.core.safeget
+tight.providers.aws.clients.boto3_client
+tight.providers.aws.lambda_app.app
+fixtures.lambda_app.app_index
+fixtures.empty_module
+tight.providers.aws.controllers.lambda_proxy_event
+fixtures.lambda_app.functions.fake_lambda_proxy_controller.handler
+tight.providers.aws.clients.dynamo_db

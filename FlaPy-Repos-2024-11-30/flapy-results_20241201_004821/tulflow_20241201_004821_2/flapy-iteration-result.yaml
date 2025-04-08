@@ -1,0 +1,21 @@
+slurm_array_task_id:    
+slurm_array_job_id:     
+slurm_job_id:           
+input_csv_line_num:     2
+hostname_run_line:      eugenio
+project_name:           "tulflow"
+project_url:            "https://github.com/tulibraries/tulflow"
+project_git_hash_INPUT: "22d8043a09467b7d62e777ed847511e983afff87"
+pypi_tag:               ""
+func_to_trace:          ""
+tests_to_be_run:        ""
+num_runs:               200
+plus_random_runs:       
+flapy args:             ""
+hostname_run_container: eugenio
+flapy_image_id:         125e5d4f5646
+project_git_hash:       "22d8043a09467b7d62e777ed847511e983afff87"
+disk_usage:             3092
+start_time:             Sun Dec  1 03:48:25 UTC 2024
+end_time:               Sun Dec  1 04:07:03 UTC 2024
+execution_time:         1118

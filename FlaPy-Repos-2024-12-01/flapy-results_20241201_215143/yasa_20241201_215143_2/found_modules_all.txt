@@ -1,0 +1,16 @@
+setup
+yasa.hypno
+yasa.io
+yasa.main
+yasa.numba
+yasa.others
+yasa.plotting
+yasa.sleepstats
+yasa.spectral
+yasa.tests.test_hypno
+yasa.tests.test_io
+yasa.tests.test_main
+yasa.tests.test_numba
+yasa.tests.test_others
+yasa.tests.test_sleepstats
+yasa.tests.test_spectral

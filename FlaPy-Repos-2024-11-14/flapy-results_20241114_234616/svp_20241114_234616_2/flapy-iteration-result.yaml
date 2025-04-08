@@ -1,0 +1,21 @@
+slurm_array_task_id:    
+slurm_array_job_id:     
+slurm_job_id:           
+input_csv_line_num:     2
+hostname_run_line:      eugenio
+project_name:           "svp"
+project_url:            "https://github.com/joshmgrant/svp"
+project_git_hash_INPUT: "fdf64445d8038b4df5ab2181eb6306d56e3b5162"
+pypi_tag:               ""
+func_to_trace:          ""
+tests_to_be_run:        ""
+num_runs:               180
+plus_random_runs:       
+flapy args:             ""
+hostname_run_container: eugenio
+flapy_image_id:         125e5d4f5646
+project_git_hash:       "fdf64445d8038b4df5ab2181eb6306d56e3b5162"
+disk_usage:             296
+start_time:             Fri Nov 15 02:46:19 UTC 2024
+end_time:               Fri Nov 15 03:23:43 UTC 2024
+execution_time:         2244

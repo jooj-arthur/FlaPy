@@ -1,0 +1,2 @@
+PROJECT_NAME,PROJECT_URL,PROJECT_HASH,PYPI_TAG,FUNCS_TO_TRACE,TESTS_TO_BE_RUN,NUM_RUNS
+torch-embed-sim,https://github.com/CyberZHG/torch-embed-sim,ace404f9cca0d47aa3efcf4e819bcd48899e4e35,,,,180.0

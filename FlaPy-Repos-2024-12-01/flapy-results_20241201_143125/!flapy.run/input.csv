@@ -1,0 +1,2 @@
+PROJECT_NAME,PROJECT_URL,PROJECT_HASH,PYPI_TAG,FUNCS_TO_TRACE,TESTS_TO_BE_RUN,NUM_RUNS
+weather-au,https://github.com/tonyallan/weather-au,359895b4add8d79a7820b1f568a7d68ebbaada85,,,,200.0

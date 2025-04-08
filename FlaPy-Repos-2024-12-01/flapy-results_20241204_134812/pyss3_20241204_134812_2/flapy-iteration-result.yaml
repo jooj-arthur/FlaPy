@@ -1,0 +1,21 @@
+slurm_array_task_id:    
+slurm_array_job_id:     
+slurm_job_id:           
+input_csv_line_num:     2
+hostname_run_line:      eugenio
+project_name:           "pyss3"
+project_url:            "https://github.com/sergioburdisso/pyss3"
+project_git_hash_INPUT: "0522e0dc3d07e2c842df8e975e68244beda4b4c5"
+pypi_tag:               ""
+func_to_trace:          ""
+tests_to_be_run:        ""
+num_runs:               100
+plus_random_runs:       
+flapy args:             ""
+hostname_run_container: eugenio
+flapy_image_id:         125e5d4f5646
+project_git_hash:       "0522e0dc3d07e2c842df8e975e68244beda4b4c5"
+disk_usage:             169468
+start_time:             Wed Dec  4 16:44:26 UTC 2024
+end_time:               Wed Dec  4 18:37:18 UTC 2024
+execution_time:         6772

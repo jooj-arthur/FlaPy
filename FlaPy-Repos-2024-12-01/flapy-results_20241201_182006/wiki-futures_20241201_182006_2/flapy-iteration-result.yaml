@@ -1,0 +1,21 @@
+slurm_array_task_id:    
+slurm_array_job_id:     
+slurm_job_id:           
+input_csv_line_num:     2
+hostname_run_line:      eugenio
+project_name:           "wiki-futures"
+project_url:            "https://github.com/AndrewRPorter/wiki-futures"
+project_git_hash_INPUT: "ae6bec3aafa7c2b881b2653eae1eb528f9b63bc7"
+pypi_tag:               ""
+func_to_trace:          ""
+tests_to_be_run:        ""
+num_runs:               180
+plus_random_runs:       
+flapy args:             ""
+hostname_run_container: eugenio
+flapy_image_id:         125e5d4f5646
+project_git_hash:       "ae6bec3aafa7c2b881b2653eae1eb528f9b63bc7"
+disk_usage:             236
+start_time:             Sun Dec  1 21:20:09 UTC 2024
+end_time:               Sun Dec  1 21:57:39 UTC 2024
+execution_time:         2250

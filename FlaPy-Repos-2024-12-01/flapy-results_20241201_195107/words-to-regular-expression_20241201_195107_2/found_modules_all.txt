@@ -1,0 +1,15 @@
+setup
+tests.helpers.hypothesis
+tests.unit.prefix_tree.test_letter_range_utils
+tests.unit.prefix_tree.test_primitives
+tests.unit.prefix_tree.test_tree
+tests.unit.test_command_line_w2re
+tests.unit.test_formatters
+tests.unit.test_setup
+tests.unit.test_utils
+w2re.command_line_w2re
+w2re.formatters
+w2re.prefix_tree.letter_range_utils
+w2re.prefix_tree.primitives
+w2re.prefix_tree.tree
+w2re.utils

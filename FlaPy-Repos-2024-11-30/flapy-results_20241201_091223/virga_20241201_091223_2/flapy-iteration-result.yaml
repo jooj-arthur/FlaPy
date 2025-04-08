@@ -1,0 +1,21 @@
+slurm_array_task_id:    
+slurm_array_job_id:     
+slurm_job_id:           
+input_csv_line_num:     2
+hostname_run_line:      eugenio
+project_name:           "virga"
+project_url:            "https://github.com/gurdulu/virga"
+project_git_hash_INPUT: "4d641de30ab574823d0326b9904161aaec8845ed"
+pypi_tag:               ""
+func_to_trace:          ""
+tests_to_be_run:        ""
+num_runs:               200
+plus_random_runs:       
+flapy args:             ""
+hostname_run_container: eugenio
+flapy_image_id:         125e5d4f5646
+project_git_hash:       "4d641de30ab574823d0326b9904161aaec8845ed"
+disk_usage:             688
+start_time:             Sun Dec  1 12:12:26 UTC 2024
+end_time:               Sun Dec  1 12:56:33 UTC 2024
+execution_time:         2647

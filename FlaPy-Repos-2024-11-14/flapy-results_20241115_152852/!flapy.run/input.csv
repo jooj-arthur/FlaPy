@@ -1,0 +1,2 @@
+PROJECT_NAME,PROJECT_URL,PROJECT_HASH,PYPI_TAG,FUNCS_TO_TRACE,TESTS_TO_BE_RUN,NUM_RUNS
+tng-sdk-package,https://github.com/sonata-nfv/tng-sdk-package,dc505568618dc8e67981d176e2c2bb87d65f442d,,,,200.0

@@ -1,0 +1,2 @@
+PROJECT_NAME,PROJECT_URL,PROJECT_HASH,PYPI_TAG,FUNCS_TO_TRACE,TESTS_TO_BE_RUN,NUM_RUNS
+vcver-python,https://github.com/toumorokoshi/vcver-python,c5d8a6f1f0e49bb25f5dbb07312e42cb4da096d6,,,,180.0

@@ -1,0 +1,9 @@
+language,files,blank,comment,code,total
+Python,21,543,1608,1632,3783
+reStructuredText,16,245,93,426,764
+JSON,1,9,0,40,49
+"DOS Batch",1,8,1,27,36
+YAML,2,7,0,17,24
+Markdown,1,4,0,17,21
+Dockerfile,1,0,0,11,11
+make,1,4,6,10,20

@@ -1,0 +1,21 @@
+slurm_array_task_id:    
+slurm_array_job_id:     
+slurm_job_id:           
+input_csv_line_num:     2
+hostname_run_line:      eugenio
+project_name:           "fdep"
+project_url:            "https://github.com/checkr/fdep"
+project_git_hash_INPUT: "36fba98e6b3af35adf238c61f700a8138c090a5e"
+pypi_tag:               ""
+func_to_trace:          ""
+tests_to_be_run:        ""
+num_runs:               100
+plus_random_runs:       
+flapy args:             ""
+hostname_run_container: eugenio
+flapy_image_id:         125e5d4f5646
+project_git_hash:       "36fba98e6b3af35adf238c61f700a8138c090a5e"
+disk_usage:             5480
+start_time:             Tue Dec  3 21:33:36 UTC 2024
+end_time:               Tue Dec  3 22:09:13 UTC 2024
+execution_time:         2137

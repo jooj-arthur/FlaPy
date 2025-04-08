@@ -1,0 +1,5 @@
+weather_au.summary
+weather_au.uv_index
+weather_au.api
+weather_au.place
+weather_au.observations

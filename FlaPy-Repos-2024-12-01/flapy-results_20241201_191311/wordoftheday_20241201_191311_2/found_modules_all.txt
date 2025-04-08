@@ -1,0 +1,3 @@
+setup
+wotd
+wotd_test

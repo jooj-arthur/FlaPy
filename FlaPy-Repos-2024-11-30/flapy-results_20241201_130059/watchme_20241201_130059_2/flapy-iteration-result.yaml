@@ -1,0 +1,19 @@
+slurm_array_task_id:    
+slurm_array_job_id:     
+slurm_job_id:           
+input_csv_line_num:     2
+hostname_run_line:      eugenio
+project_name:           "watchme"
+project_url:            "https://github.com/vsoch/watchme"
+project_git_hash_INPUT: "645d09b1a20ac2e078879810657e9eef7cd4d785"
+pypi_tag:               ""
+func_to_trace:          ""
+tests_to_be_run:        ""
+num_runs:               200
+plus_random_runs:       
+flapy args:             ""
+hostname_run_container: eugenio
+flapy_image_id:         125e5d4f5646
+project_git_hash:       "645d09b1a20ac2e078879810657e9eef7cd4d785"
+disk_usage:             26964
+start_time:             Sun Dec  1 16:01:03 UTC 2024

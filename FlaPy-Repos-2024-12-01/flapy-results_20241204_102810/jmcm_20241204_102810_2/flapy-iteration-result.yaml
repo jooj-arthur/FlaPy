@@ -1,0 +1,21 @@
+slurm_array_task_id:    
+slurm_array_job_id:     
+slurm_job_id:           
+input_csv_line_num:     2
+hostname_run_line:      eugenio
+project_name:           "jmcm"
+project_url:            "https://github.com/Xuerui-Yang/jmcm"
+project_git_hash_INPUT: "e82574eaad2195944ec1899a41de238f8948f554"
+pypi_tag:               ""
+func_to_trace:          ""
+tests_to_be_run:        ""
+num_runs:               181
+plus_random_runs:       
+flapy args:             ""
+hostname_run_container: eugenio
+flapy_image_id:         125e5d4f5646
+project_git_hash:       "e82574eaad2195944ec1899a41de238f8948f554"
+disk_usage:             724
+start_time:             Wed Dec  4 13:28:13 UTC 2024
+end_time:               Wed Dec  4 16:44:13 UTC 2024
+execution_time:         11760

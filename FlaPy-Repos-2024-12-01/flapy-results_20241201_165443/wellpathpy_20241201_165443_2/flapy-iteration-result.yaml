@@ -1,0 +1,21 @@
+slurm_array_task_id:    
+slurm_array_job_id:     
+slurm_job_id:           
+input_csv_line_num:     2
+hostname_run_line:      eugenio
+project_name:           "wellpathpy"
+project_url:            "https://github.com/Zabamund/wellpathpy"
+project_git_hash_INPUT: "f29b14a9a1c46e77ea98b141e3cdc43674654ea2"
+pypi_tag:               ""
+func_to_trace:          ""
+tests_to_be_run:        ""
+num_runs:               160
+plus_random_runs:       
+flapy args:             ""
+hostname_run_container: eugenio
+flapy_image_id:         125e5d4f5646
+project_git_hash:       "f29b14a9a1c46e77ea98b141e3cdc43674654ea2"
+disk_usage:             2548
+start_time:             Sun Dec  1 19:54:46 UTC 2024
+end_time:               Sun Dec  1 21:19:55 UTC 2024
+execution_time:         5109

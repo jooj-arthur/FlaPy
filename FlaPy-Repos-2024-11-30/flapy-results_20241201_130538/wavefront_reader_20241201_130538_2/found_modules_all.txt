@@ -1,0 +1,9 @@
+setup
+tests.test_face_index_parser
+tests.test_mtl_reader
+tests.test_obj_reader
+tests.test_wavefront_reader
+tests.test_wavefront_writer
+travis_pypi_setup
+wavefront_reader.reading
+wavefront_reader.writing

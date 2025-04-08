@@ -1,0 +1,21 @@
+slurm_array_task_id:    
+slurm_array_job_id:     
+slurm_job_id:           
+input_csv_line_num:     2
+hostname_run_line:      eugenio
+project_name:           "words-to-regular-expression"
+project_url:            "https://github.com/radeklat/words-to-regular-expression"
+project_git_hash_INPUT: "6be1a3846f4bc07a2264b72d1e1ee031c605bac7"
+pypi_tag:               ""
+func_to_trace:          ""
+tests_to_be_run:        ""
+num_runs:               180
+plus_random_runs:       
+flapy args:             ""
+hostname_run_container: eugenio
+flapy_image_id:         125e5d4f5646
+project_git_hash:       "6be1a3846f4bc07a2264b72d1e1ee031c605bac7"
+disk_usage:             536
+start_time:             Sun Dec  1 22:51:10 UTC 2024
+end_time:               Sun Dec  1 23:22:23 UTC 2024
+execution_time:         1873

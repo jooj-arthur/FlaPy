@@ -1,0 +1,10 @@
+language,files,blank,comment,code,total
+Python,33,850,290,2845,3985
+YAML,3,26,0,198,224
+make,1,30,5,190,225
+reStructuredText,11,65,26,148,239
+Markdown,2,45,0,112,157
+"Bourne Again Shell",1,5,3,14,22
+XML,6,0,0,12,12
+INI,1,1,0,8,9
+TOML,1,0,0,7,7

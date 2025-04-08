@@ -1,0 +1,6 @@
+vcver.scm.base
+vcver.scm.git
+vcver.scm.mock
+vcver.version
+vcver.exception
+vcver.version_string

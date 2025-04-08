@@ -1,0 +1,6 @@
+conftest
+setup
+uhashring.monkey
+uhashring.ring
+uhashring.ring_ketama
+uhashring.ring_meta

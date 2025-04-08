@@ -1,0 +1,2 @@
+PROJECT_NAME,PROJECT_URL,PROJECT_HASH,PYPI_TAG,FUNCS_TO_TRACE,TESTS_TO_BE_RUN,NUM_RUNS
+synthego-ice,https://github.com/synthego-open/ice,310495fe536b7d2eafcee80f145c55f7c65d947c,,,,200.0

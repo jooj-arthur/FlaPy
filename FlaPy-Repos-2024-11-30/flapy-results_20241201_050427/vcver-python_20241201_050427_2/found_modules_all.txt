@@ -1,0 +1,14 @@
+setup
+ubuild
+vcver.exception
+vcver.scm.base
+vcver.scm.git
+vcver.scm.mock
+vcver.tests.scm.conftest
+vcver.tests.scm.test_base
+vcver.tests.scm.test_git
+vcver.tests.test_full
+vcver.tests.test_version
+vcver.tests.test_version_string
+vcver.version
+vcver.version_string

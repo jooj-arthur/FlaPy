@@ -1,0 +1,2 @@
+PROJECT_NAME,PROJECT_URL,PROJECT_HASH,PYPI_TAG,FUNCS_TO_TRACE,TESTS_TO_BE_RUN,NUM_RUNS
+torchfuel,https://github.com/vturrisi/torchfuel,7bcb1c645d79ad8a8d2df5f76c7f8ac00e2c6d39,,,,180.0

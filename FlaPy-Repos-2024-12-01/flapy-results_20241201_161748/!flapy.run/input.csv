@@ -1,0 +1,2 @@
+PROJECT_NAME,PROJECT_URL,PROJECT_HASH,PYPI_TAG,FUNCS_TO_TRACE,TESTS_TO_BE_RUN,NUM_RUNS
+webdriver_manager,https://github.com/SergeyPirogov/webdriver_manager,82b4657acc02ab7b3977acc26cfc62ffede8dedc,,,,180.0

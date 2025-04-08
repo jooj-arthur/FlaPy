@@ -1,0 +1,2 @@
+PROJECT_NAME,PROJECT_URL,PROJECT_HASH,PYPI_TAG,FUNCS_TO_TRACE,TESTS_TO_BE_RUN,NUM_RUNS
+virtualenv-clone,https://github.com/edwardgeorge/virtualenv-clone,8a61552d99087c99895a0d0ca104ed47a1eade24,,,,180.0

@@ -1,0 +1,21 @@
+slurm_array_task_id:    
+slurm_array_job_id:     
+slurm_job_id:           
+input_csv_line_num:     2
+hostname_run_line:      eugenio
+project_name:           "immunopepper"
+project_url:            "https://github.com/ratschlab/immunopepper"
+project_git_hash_INPUT: "f492ba8c7183061bdc937534f5ac73e1cc7600ae"
+pypi_tag:               ""
+func_to_trace:          ""
+tests_to_be_run:        ""
+num_runs:               137
+plus_random_runs:       
+flapy args:             ""
+hostname_run_container: eugenio
+flapy_image_id:         125e5d4f5646
+project_git_hash:       "f492ba8c7183061bdc937534f5ac73e1cc7600ae"
+disk_usage:             169508
+start_time:             Wed Dec  4 01:24:41 UTC 2024
+end_time:               Wed Dec  4 13:27:50 UTC 2024
+execution_time:         43389

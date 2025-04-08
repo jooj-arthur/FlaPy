@@ -1,0 +1,17 @@
+language,files,blank,comment,code,total
+Python,342,11430,14525,41280,67235
+reStructuredText,24,813,386,2384,3583
+C++,35,113,14,448,575
+C,26,75,4,299,378
+YAML,6,47,74,291,412
+"C/C++ Header",27,92,6,248,346
+make,2,24,8,65,97
+D,4,7,0,46,53
+Qt,1,0,0,45,45
+"Fortran 90",6,8,1,29,38
+"DOS Batch",1,8,1,27,36
+"Bourne Again Shell",5,11,4,24,39
+Assembly,2,10,2,22,34
+XML,1,0,0,10,10
+Lua,1,2,2,10,14
+CSS,1,2,3,8,13

@@ -1,0 +1,21 @@
+slurm_array_task_id:    
+slurm_array_job_id:     
+slurm_job_id:           
+input_csv_line_num:     2
+hostname_run_line:      eugenio
+project_name:           "vimms"
+project_url:            "https://github.com/sdrogers/vimms"
+project_git_hash_INPUT: "fcae1a81b4fa4c4913fd0bd3af9b79be8122feaa"
+pypi_tag:               ""
+func_to_trace:          ""
+tests_to_be_run:        ""
+num_runs:               180
+plus_random_runs:       
+flapy args:             ""
+hostname_run_container: eugenio
+flapy_image_id:         125e5d4f5646
+project_git_hash:       "fcae1a81b4fa4c4913fd0bd3af9b79be8122feaa"
+disk_usage:             441024
+start_time:             Sun Dec  1 11:53:41 UTC 2024
+end_time:               Sun Dec  1 12:12:16 UTC 2024
+execution_time:         1115

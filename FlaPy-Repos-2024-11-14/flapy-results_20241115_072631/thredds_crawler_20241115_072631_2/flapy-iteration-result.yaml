@@ -1,0 +1,21 @@
+slurm_array_task_id:    
+slurm_array_job_id:     
+slurm_job_id:           
+input_csv_line_num:     2
+hostname_run_line:      eugenio
+project_name:           "thredds_crawler"
+project_url:            "https://github.com/ioos/thredds_crawler"
+project_git_hash_INPUT: "fb29ea2fb8d079cacc6c09f79245e8f54f77c6a6"
+pypi_tag:               ""
+func_to_trace:          ""
+tests_to_be_run:        ""
+num_runs:               180
+plus_random_runs:       
+flapy args:             ""
+hostname_run_container: eugenio
+flapy_image_id:         125e5d4f5646
+project_git_hash:       "fb29ea2fb8d079cacc6c09f79245e8f54f77c6a6"
+disk_usage:             376
+start_time:             Fri Nov 15 10:26:33 UTC 2024
+end_time:               Fri Nov 15 17:52:45 UTC 2024
+execution_time:         26772

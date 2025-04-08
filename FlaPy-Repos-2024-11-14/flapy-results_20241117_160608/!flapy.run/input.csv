@@ -1,0 +1,2 @@
+PROJECT_NAME,PROJECT_URL,PROJECT_HASH,PYPI_TAG,FUNCS_TO_TRACE,TESTS_TO_BE_RUN,NUM_RUNS
+truffleHog,https://github.com/MechanicalRock/truffleHog,5e7f32d4005f82e66b2b9ccd44fcac8e02c1aa34,,,,188.0
